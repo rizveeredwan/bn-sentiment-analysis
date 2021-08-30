@@ -7,8 +7,7 @@ Bangla sentiment analysis with LSTM and Word2Vec
 
 # Datasets
 - stop words
-1. https://github.com/stopwords-iso/stopwords-bn
-2. https://github.com/stopwords-iso/stopwords-iso
+1. https://github.com/stopwords-iso/stopwords-iso
 - datasets
 1. https://github.com/banglanlp/bangla-sentiment-classification
 2. https://github.com/Ayubur/bangla-sentiment-analysis-datasets
